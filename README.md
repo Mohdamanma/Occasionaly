@@ -21,7 +21,7 @@ Occasionaly is a web-based platform designed to simplify the process of planning
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/nandhu-44/Occasionaly.git
+    git clone (https://github.com/Mohdamanma/Occasionaly.git)
     ```
 
 2. Move into the project directory
@@ -63,4 +63,4 @@ We welcome contributions! Please feel free to submit a Pull Request.
 
 ---
 
-Made with ❤️ and [Next.js](https://nextjs.org/) by **[Nandhu](https://github.com/nandhu-44/ "⚡ Nandhu ⚡")** and **[Pruthvi](https://github.com/ItsTatsuya/)**
+Made with ❤️ and [Next.js](https://nextjs.org/) by **[Mohammed Aman](https://github.com/Mohdamanma/ "⚡ Aman ⚡")** 
